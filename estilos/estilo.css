@@ -1,0 +1,47 @@
+/* hoja de estilos de la página*/
+
+.btn4{
+	color: #0250c9;
+	border-color: #0250c9;
+}
+
+.btn4:hover {
+	background-color: #0250c9;
+	color: white;
+}
+
+.btn3{
+	background-color: #ffff24;
+	color: black;
+}
+
+.btn3:hover{
+	background-color: black;
+	color: white;
+}
+
+.titulo{
+	font-size: 3rem;
+    line-height: 3.5rem;
+    font-family: SuecaSlab,Georgia,"serif";
+    font-weight: 700;
+    text-align: left;
+}
+
+.subtitulo{
+	color: #333;
+	text-align: left;
+}
+
+p{
+	font-family: Georgia,"serif";
+	text-align: left;
+}
+
+.subtitulo2{
+	display: flex;
+    margin-bottom: 0.5rem;
+    font-family: SuecaSlab,Georgia,"serif";
+    font-weight: 700;
+    letter-spacing: -.4px;
+}
